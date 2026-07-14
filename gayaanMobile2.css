@@ -1,0 +1,201 @@
+html{
+	/*border:2px solid red;*/
+	margin:0px;
+	background-color:#FFF8E1;
+}
+
+body{
+	/*border:2px solid black;*/
+	margin:0px;
+}
+
+h1:nth-of-type(1){
+	background-color:#1C2E4A;
+	color:white;
+	text-align:center;
+	text-transform:uppercase;
+	font-family:"Audiowide";
+	padding:20px 0px;
+	margin-bottom:50px;
+	font-size:35px;
+}
+
+/* ----------------   gambar1   ---------------- */
+
+img:nth-of-type(1){
+	width:95%;
+	height:150px;
+	object-fit: cover;
+	margin:auto;
+	display:block;
+	border-radius:15px;
+}
+
+/* ----------------   konten1   ---------------- */
+
+#konten1 *{
+	/*border:3px solid green;*/
+	text-align:center;
+	font-family:"Plus Jakarta Sans";
+	color:#0F1A2B;
+}
+
+#konten1 p:nth-of-type(1){
+	font-weight:660;
+	font-size:25px;
+}
+
+#konten1 p:nth-of-type(2){
+	/*border:3px solid green;*/
+	width:85%;
+	margin:auto;
+	text-align:center;
+	font-family:"Plus Jakarta Sans";
+	font-size:50%;
+}
+
+/* ----------------   JUDUL TABEL   ---------------- */
+
+#kumpulanLink h4:nth-of-type(1){
+	background-color:#1C2E4A;
+	color:white;
+	text-align:center;
+	margin-bottom:0px;
+	padding:20px 0px;
+	border-radius:32px 32px 0px 0px;
+	font-family:"Plus Jakarta Sans";
+	font-size:50%;
+}
+
+/* ----------------   tabel link   ---------------- */
+
+#kumpulanLink{
+	/*border:3px solid blue;*/
+	padding:20px 2px;
+}
+#kumpulanLink table{
+	width:100%;
+	font-family:"Plus Jakarta Sans";
+}
+
+#kumpulanLink th{
+	background-color:#52677D;
+	color:white;
+	font-size:50%;
+}
+
+#kumpulanLink td{
+	text-align:center;
+	background-color:#BDC4D4;
+	border-bottom:1px solid #6C91CC;
+}
+
+#kumpulanLink td, #kumpulanLink th{
+	padding:15px 3px;
+}
+
+#kumpulanLink table, #kumpulanLink th, #kumpulanLink td{
+	border-collapse: collapse;
+}
+
+#kumpulanLink table tr td:nth-of-type(1){
+	font-weight:650;
+	text-transform:capitalize;
+	font-size:65%;
+}
+
+#kumpulanLink table tr td:nth-of-type(1) p{
+	font-weight:950;
+	font-size:5%;
+	background-color:yellow;
+}
+
+#kumpulanLink table tr td:nth-of-type(2){
+	color:#52677D;
+	font-size:10%;
+}
+
+#kumpulanLink table tr td:nth-of-type(3){
+	text-transform:capitalize;
+	font-size:65%;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) a{
+	background-color:#1C2E4A;
+	padding:10px 30px;
+	text-decoration:none;
+	border-radius:10px;
+	color:white;
+	font-size:8%;
+	font-weight:660;
+	transition:0.5s;
+	text-transform:uppercase;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) a:hover{
+	background-color:#52677D;
+	color:white;
+	transition:0.5s;
+}
+
+/* ----------------   khusus 1   ---------------- */
+
+#kumpulanLink table tr td:nth-of-type(4) div{
+	width:90%;
+	margin:auto;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) div a:nth-of-type(1){
+	background-color:#1C2E4A;
+	color:white;
+	transition:0.5s;
+	margin-bottom:6px;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) div a:nth-of-type(1):hover{
+	background-color:#52677D;
+	color:white;
+	transition:0.5s;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) div a:nth-of-type(2){
+	background-color:#FFA500;
+	color:black;
+	transition:0.5s;
+	padding:auto;
+	text-align:center;
+}
+
+#kumpulanLink table tr td:nth-of-type(4) div a:nth-of-type(2):hover{
+	background-color:#fa8b2f;
+	color:white;
+	transition:0.5s;
+}
+
+/* ----------------   penutup tabel   ---------------- */
+
+#penutupTabel{
+	background-color:#1C2E4A;
+	color:white;
+	text-align:center;
+	margin-top:0px;
+	padding:20px 0px;
+	border-radius:0px 0px 32px 32px;
+	font-family:"Plus Jakarta Sans";
+	font-size:60%;
+}
+
+/* ----------------   bottom paling bawah   ---------------- */
+
+#palingBawah{
+	background-color:black;
+	padding:20px 0px ;
+	margin-top:35px;
+}
+
+#palingBawah *{
+	color:white;
+	text-align:center;
+	font-family:"Plus Jakarta Sans";
+	font-size:55%;
+}

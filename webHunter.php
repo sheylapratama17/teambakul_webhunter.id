@@ -1,0 +1,344 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+		<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Web hunters</title>
+		<link rel="stylesheet" href="gayaan.css">
+		<link rel="stylesheet" href="gayaanMobile.css" media="screen and (max-width:420px)">
+
+		<link rel="stylesheet" href="gayaanMobile2.css" media="screen and (min-width:421px) and (max-width:550px)">
+
+		<link rel="stylesheet" href="gayaanMobile3.css" media="screen and (min-width:551px) and (max-width:700px)">
+
+		<link rel="stylesheet" href="gayaanMobile4.css" media="screen and (min-width:701px) and (max-width:920px)">
+	</head>
+	
+	<body>
+		<h1>bakul.id</h1>
+		<img src="gambar/japan1.jpg">
+		<div id="konten1">
+			<p>web hunter</p>
+			<p id="isiKonten2"></p>
+		</div>
+		<div id="kumpulanLink">
+			<h4>tabel kumpulan web online</h4>
+			<table>
+				<tr>
+					<th>Nama Platform</th>
+					<th>Alamat link</th>
+					<th>Kategori</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>mercari</td>
+					<td>jp.mercari.com</td>
+					<td>All</td>
+					<td><a href="https://jp.mercari.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>mandarake</td>
+					<td>mandarake.co.jp</td>
+					<td>All</td>
+					<td><a href="https://www.mandarake.co.jp/index2.html">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Suruga</td>
+					<td>suruga-ya.jp</td>
+					<td>hobby</td>
+					<td><a href="https://www.suruga-ya.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>jungle scs</td>
+					<td>jungle-scs-jpsale.jp</td>
+					<td>hobby</td>
+					<td><a href="https://jungle-scs-jpsale.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Yellow Submarine</td>
+					<td>yellowsubmarine.co.jp</td>
+					<td>hobby</td>
+					<td><a href="https://yellowsubmarine.co.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Rakuten</td>
+					<td>rakuten.co.jp</td>
+					<td>all</td>
+					<td><a href="https://www.rakuten.co.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>taobao</td>
+					<td>taobao.com</td>
+					<td>all</td>
+					<td><a href="https://www.taobao.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>amazon japan</td>
+					<td>amazon.co.jp</td>
+					<td>all</td>
+					<td><a href="https://www.amazon.co.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>amiami</td>
+					<td>amiami.jp</td>
+					<td>all</td>
+					<td><a href="https://www.amiami.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>hobby link japan</td>
+					<td>hlj.com</td>
+					<td>hobby</td>
+					<td><a href="https://hlj.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>1999</td>
+					<td>1999.co.jp</td>
+					<td>hobby</td>
+					<td><a href="https://www.1999.co.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Takara Tomy</td>
+					<td>takaratomymall.jp</td>
+					<td>hobby and toys</td>
+					<td><a href="https://takaratomymall.jp/shop/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>lelangan yahoo japan</td>
+					<td>page.auctions.yahoo.co.jp</td>
+					<td>all</td>
+					<td><a href="https://page.auctions.yahoo.co.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>yahoo japan</td>
+					<td>yahoo.co.jp</td>
+					<td>all</td>
+					<td><a href="https://www.yahoo.co.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>jauce</td>
+					<td>jauce.com</td>
+					<td>all</td>
+					<td><a href="https://www.jauce.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>tamashii</td>
+					<td>tamashiiweb.com</td>
+					<td>action figure</td>
+					<td><a href="https://tamashiiweb.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>premium bandai</td>
+					<td>p-bandai.jp</td>
+					<td>bandai product</td>
+					<td><a href="https://p-bandai.jp/global_newpc.html">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>edion</td>
+					<td>edion.com</td>
+					<td>all</td>
+					<td><a href="https://www.edion.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>joshinweb</td>
+					<td>joshinweb.jp</td>
+					<td>all</td>
+					<td><a href="https://joshinweb.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>sofmap</td>
+					<td>a.sofmap.com</td>
+					<td>hobby dan collection</td>
+					<td><a href="https://a.sofmap.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>yodobashi</td>
+					<td>yodobashi.com</td>
+					<td>all</td>
+					<td><a href="https://www.yodobashi.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>mbok</td>
+					<td>mbok.jp</td>
+					<td>all</td>
+					<td><a href="https://www.mbok.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>rakuten rakuma</td>
+					<td>fril.jp</td>
+					<td>all</td>
+					<td><a href="https://fril.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>bigweb <p>(pakai vpn agar gambar dapat dimuat)</p></td>
+					<td>bigweb.co.jp</td>
+					<td>kartu</td>
+					<td><a href="https://www.bigweb.co.jp/ja/products">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>cardrush pokemon<p>Shipping = 180 s/d 320 JPY (tergantung ketebalan)</p></td>
+					<td>cardrush-pokemon.jp</td>
+					<td>kartu pokemon</td>
+					<td><a href="https://www.cardrush-pokemon.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>dorasuta<p>Shipping = 250 s/d 350 JPY</p></td>
+					<td>dorasuta.jp</td>
+					<td>kartu</td>
+					<td><a href="https://dorasuta.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>aliexpress</td>
+					<td>aliexpress.com</td>
+					<td>all</td>
+					<td><a href="https://www.aliexpress.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>playze<p>Shipping = 280 JPY</p></td>
+					<td>playze.jp</td>
+					<td>kartu</td>
+					<td><a href="https://playze.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>humanmade</td>
+					<td>humanmade.jp</td>
+					<td>fashion</td>
+					<td><a href="https://www.humanmade.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>yuyu tei<p>Shipping = FREE</p></td>
+					<td>yuyu-tei.jp</td>
+					<td>kartu</td>
+					<td><a href="https://yuyu-tei.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>pokemon car fullahead</td>
+					<td>pokemon-card-fullahead.com</td>
+					<td>kartu pokemon</td>
+					<td><a href="https://pokemon-card-fullahead.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Toreca camp<p>Shipping = 600 JPY (Free min. 10,000 JPY)</p></td>
+					<td>torecacamp-pokemon.com</td>
+					<td>kartu pokemon</td>
+					<td><a href="https://torecacamp-pokemon.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>Hobby Station<p>Shipping = 220 JPY</p></td>
+					<td>hobbystation-single.jp</td>
+					<td>kartu</td>
+					<td><a href="https://www.hobbystation-single.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>toretoku<p>Shipping = 200 JPY (Free min. 5.000 JPY)</p></td>
+					<td>toretoku.jp</td>
+					<td>kartu</td>
+					<td><a href="https://www.toretoku.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>hareruya2<p>Shipping = 200 JPY (Free min. 30.000 JPY)</p></td>
+					<td>hareruya2.com</td>
+					<td>kartu</td>
+					<td><a href="https://www.hareruya2.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>c-labo<p>Shipping = 290 JPY</p></td>
+					<td>c-labo-online.jp</td>
+					<td>kartu</td>
+					<td><a href="https://www.c-labo-online.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>shopping fullcomp<p>Shipping = 250 JPY (Free min. 5.000 JPY)</p></td>
+					<td>shopping.fullcomp.jp</td>
+					<td>kartu</td>
+					<td><a href="https://shopping.fullcomp.jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>pao-onlineshop<p>Shipping = 250 JPY</p></td>
+					<td>pao-onlineshop.com</td>
+					<td>kartu</td>
+					<td><a href="https://pao-onlineshop.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>carderia<p>Shipping = 290 JPY</p></td>
+					<td>carderia-online.com</td>
+					<td>kartu</td>
+					<td><a href="https://carderia-online.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>fukufuku pokemon<p>Shipping = 200 JPY</p></td>
+					<td>pokemon.fukufukutoreka.com</td>
+					<td>kartu pokemon</td>
+					<td><a href="https://pokemon.fukufukutoreka.com">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>logicool</td>
+					<td>gaming.logicool.co.jp</td>
+					<td>gaming</td>
+					<td><a href="https://gaming.logicool.co.jp/ja-jp">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>sanwa</td>
+					<td>direct.sanwa.co.jp</td>
+					<td>electronic and tool</td>
+					<td>
+						<div style="display:flex; flex-direction:column;">
+							<a href="" onclick="sanwaSibuk()">kunjungi</a>
+							<a href="https://store.shopping.yahoo.co.jp/sanwadirect/index.html">alternative</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>GU global</td>
+					<td>gu-global.com</td>
+					<td>fashion</td>
+					<td><a href="https://www.gu-global.com/jp/ja/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>puma jp</td>
+					<td>jp.puma.com</td>
+					<td>sepatu</td>
+					<td><a href="https://jp.puma.com/jp/ja">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>bbld</td>
+					<td>bbld.jp</td>
+					<td>fashion</td>
+					<td><a href="https://bbld.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>gashapon</td>
+					<td>gashapon.jp</td>
+					<td>gacha</td>
+					<td><a href="https://gashapon.jp/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>overridehat</td>
+					<td>overridehat.com</td>
+					<td>topi</td>
+					<td><a href="https://overridehat.com/">kunjungi</a></td>
+				</tr>
+				<tr>
+					<td>pokemon merch</td>
+					<td>pokemoncenter-online.com</td>
+					<td>pokemon merch</td>
+					<td><a href="https://www.pokemoncenter-online.com/">kunjungi</a></td>
+				</tr>
+			</table>
+			<p id="penutupTabel">selesai</p>
+		</div>
+		<p id="lebarLayar"></p>
+		<script>
+			document.getElementById("lebarLayar").innerHTML = "lebar layar " + screen.width;
+		</script>
+		<script src="sekerip.js"></script>
+		
+		<div id="palingBawah">
+			<p>dibuat oleh team aikool bakul</p>
+			<p>created website 2026</p>
+		</div>
+		
+		
+		
+	
+	</body>
+</html>
